@@ -13,13 +13,12 @@ INSERT INTO Books (Title, Author, ISBN, Genre, AvailableCopies) VALUES
 
 -- Insert data into Users table
 INSERT INTO Users (Name, Email) VALUES
-    ('Bhopender Kumar', 'bhopender.kumar@example.com'),
+    ('Bhopender Kumar', 'bhopender.netdev@gmail.com'),
     ('Sahil Thakur', 'sahil.thakur@example.com'),
     ('Abhay Singh', 'abhay.singh@example.com');
 
 -- Insert data into Rentals table
--- Assuming RentalDate is based on the previous example
 INSERT INTO Rentals (BookId, UserId, RentalDate, ReturnDate) VALUES
-    (1, 1, '2024-11-03', NULL),  -- Book is currently rented by Alice Johnson
-    (3, 2, '2024-10-29', '2024-11-12'),  -- Book 1984 rented and returned by Bob Smith
-    (2, 3, '2024-10-24', NULL);  -- Book To Kill a Mockingbird currently rented by Charlie Brown
+    (1, 1, '2024-11-03', NULL),
+    (3, 2, '2024-10-29', '2024-11-12'),
+    (2, 3, '2024-10-24', NULL);
