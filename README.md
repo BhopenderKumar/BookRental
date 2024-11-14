@@ -36,6 +36,7 @@ dotnet ef database update
 
 ### 4. Run Sample SQL Script
 Go to the SQL server Management Studio and run follwing script:
+https://github.com/BhopenderKumar/BookRental/blob/main/Sample%20Script/Sample%20Data%20Script.sql
 
 ### 5. Run the Project
 To start the API, run the following command:
@@ -47,8 +48,7 @@ dotnet run
 The API will be available at `https://localhost:44332` or `http://localhost:44332`.
 
 User following postman collection to test the APIs
-
-
+https://github.com/BhopenderKumar/BookRental/blob/main/Postman%20collection/BookRental.Api.postman_collection.json
 
 ## Assumptions
 
