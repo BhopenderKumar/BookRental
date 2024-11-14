@@ -35,7 +35,7 @@ dotnet ef database update
 ```
 
 ### 4. Run Sample SQL Script
-Go to the SQL server Management Studio and run follwing script:
+Go to the SQL server Management Studio and run following script:
 https://github.com/BhopenderKumar/BookRental/blob/main/Sample%20Script/Sample%20Data%20Script.sql
 
 ### 5. Run the Project
