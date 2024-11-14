@@ -4,7 +4,7 @@ This README outlines the steps to set up and run the Book Rental Service project
 
 ## Prerequisites
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8 SDK]([https://dotnet.microsoft.com/download/dotnet/6.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0))
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [Entity Framework Core Tools](https://docs.microsoft.com/en-us/ef/core/cli/dotnet)
 
