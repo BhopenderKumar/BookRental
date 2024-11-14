@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BookRental.Api
+/BookRental.Core/obj
+/BookRental.Data
+/BookRental.Infrastructure
+/BookRental.Services
+/BookRental.Test
+/BookRental.Core/bin/Debug/net8.0
